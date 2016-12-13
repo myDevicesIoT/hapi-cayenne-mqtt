@@ -1,0 +1,5 @@
+{
+    "name" : "hapi-cayenne-mqtt",
+    "version": "0.0.1",
+    "main" : "./lib/HapiCayenneMQTT"
+}
