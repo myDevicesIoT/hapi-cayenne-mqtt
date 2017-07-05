@@ -1,5 +1,28 @@
 {
-    "name" : "hapi-cayenne-mqtt",
-    "version": "0.0.1",
-    "main" : "./lib/HapiCayenneMQTT"
+  "name": "hapi-cayenne-mqtt",
+  "version": "0.0.1",
+  "main": "./lib/HapiCayenneMQTT",
+  "description": "Hapi.JS plugin to connect to Cayenne MQTT API.",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myDevicesIoT/hapi-cayenne-mqtt.git"
+  },
+  "keywords": [
+    "mqtt",
+    "cayenne",
+    "iot",
+    "hapijs"
+  ],
+  "author": "myDevices Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myDevicesIoT/hapi-cayenne-mqtt/issues"
+  },
+  "homepage": "https://github.com/myDevicesIoT/hapi-cayenne-mqtt#readme",
+  "dependencies": {
+    "mqtt": "^2.9.0"
+  }
 }
